@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // index.js
 // job  : converts CEDICT file into JSON object
 // job  : only converts "valid" CEDICT lines
